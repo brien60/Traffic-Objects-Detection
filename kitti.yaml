@@ -1,0 +1,17 @@
+# kitti.yaml
+
+train: /data_object_images/train
+val: /data_object_images/val
+
+# Number of classes
+nc: 7
+
+# Class names
+names:
+  0: Car
+  1: Van
+  2: Truck
+  3: Pedestrian
+  4: Person_sitting
+  5: Cyclist
+  6: Tram
